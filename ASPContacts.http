@@ -1,0 +1,6 @@
+@ASPContacts_HostAddress = http://localhost:5134
+
+GET {{ASPContacts_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
