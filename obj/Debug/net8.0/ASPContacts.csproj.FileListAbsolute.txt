@@ -33,3 +33,4 @@ F:\Projets_AngularASP.Node\ASPContacts\ASPContacts\obj\Debug\net8.0\refint\ASPCo
 F:\Projets_AngularASP.Node\ASPContacts\ASPContacts\obj\Debug\net8.0\ASPContacts.pdb
 F:\Projets_AngularASP.Node\ASPContacts\ASPContacts\obj\Debug\net8.0\ASPContacts.genruntimeconfig.cache
 F:\Projets_AngularASP.Node\ASPContacts\ASPContacts\obj\Debug\net8.0\ref\ASPContacts.dll
+F:\Projets_AngularASP.Node\ASPContacts\ASPContacts\obj\Debug\net8.0\ASPContacts.sourcelink.json
